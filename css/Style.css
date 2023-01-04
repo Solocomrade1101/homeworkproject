@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header {
   grid-area: "header";
-  background: #F5F5DC;
+  background: #bdbd5f;
 }
 
 .container {
